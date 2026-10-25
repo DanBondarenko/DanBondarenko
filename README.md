@@ -5,7 +5,7 @@ Software engineer with 7 years of experience in back-end and full-stack work. I 
 I wrote and maintain digidocpp, an open-source Rust library for creating and validating eIDAS digital signatures. It wraps libdigidocpp, the official C++ implementation of Estonian digital signatures, maintained by the Estonian Information System Authority (RIA). The crate is on crates.io. Unofficial, not affiliated with RIA.
 - Repository: https://github.com/DanBondarenko/digidocpp-rs
 - crates.io: https://crates.io/crates/digidocpp
-- docs.rs: https://docs.rs/digidocpp/latest/digidocpp/
+- docs.rs: https://docs.rs/digidocpp
 
 ## Open-source Rust contributions
 
