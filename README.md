@@ -16,4 +16,4 @@ I've authored merged pull requests in tokio, axum, and rustls. Pull requests in 
 - clippy: new lint (in review, [#17440](https://github.com/rust-lang/rust-clippy/pull/17440))
 - zenoh: no panic on config errors (in review, [#2693](https://github.com/eclipse-zenoh/zenoh/pull/2693))
 
-Here's a live GitHub search of such pull requests: [link](https://github.com/search?q=author%3ADanBondarenko+is%3Apr+language%3ARust+-user%3ADanBondarenko&type=pullrequests).
+Live GitHub search of PRs: [link](https://github.com/search?q=author%3ADanBondarenko+is%3Apr+language%3ARust+-user%3ADanBondarenko&type=pullrequests).
